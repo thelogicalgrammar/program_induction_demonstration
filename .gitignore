@@ -1,0 +1,5 @@
+**.spec
+windows/build/*
+ubuntu/build/*
+LOTlib3/
+interactive.py
