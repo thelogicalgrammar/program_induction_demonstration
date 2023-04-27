@@ -28,3 +28,7 @@ Some suggested strings to input:
 - 0010001
 
 NOTE: To make it extra fun, use a misleading emphasis when reading the string, e.g., "zero ZERO one zero zero ZERO one".
+
+# Acknowledgments
+
+This app uses Steven Piantadosi's [LOTlib3](https://github.com/piantado/LOTlib3) in the background.
